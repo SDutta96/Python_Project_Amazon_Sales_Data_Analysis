@@ -22,6 +22,19 @@ A detailed analysis of Amazon sales data was conducted using Python, generating 
 - Status: Status of the transaction. This column does not contain any data.
 - unnamed1: This column does not contain any data.
 
+### Technologies Used
+
+- Programming Language:
+> Python: Core programming language for data processing and analysis.
+- Libraries:
+> NumPy and Pandas: For data manipulation and analysis.
+> Matplotlib and Seaborn: For data visualization and insights.
+- Environment:
+> Jupyter Notebook: Interactive environment for code execution and visualization.
+- Version Control:
+> VS Code: Used for code editing and Git integration.
+> Git & GitHub: For version control and project collaboration.
+
 ### Findings:
 - The plots above show that the majority of buyers are female, and females have spent the highest total amount on shopping.
 - From the plot above, we can observe that females in the 26-35 age group have made the most purchases, and this group has also spent the highest amount during shopping.
