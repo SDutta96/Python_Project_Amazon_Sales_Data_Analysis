@@ -25,15 +25,15 @@ A detailed analysis of Amazon sales data was conducted using Python, generating 
 ### Technologies Used
 
 - Programming Language:
-> Python: Core programming language for data processing and analysis.
+Python: Core programming language for data processing and analysis.
 - Libraries:
-> NumPy and Pandas: For data manipulation and analysis.
-> Matplotlib and Seaborn: For data visualization and insights.
+NumPy and Pandas: For data manipulation and analysis.
+Matplotlib and Seaborn: For data visualization and insights.
 - Environment:
-> Jupyter Notebook: Interactive environment for code execution and visualization.
+Jupyter Notebook: Interactive environment for code execution and visualization.
 - Version Control:
-> VS Code: Used for code editing and Git integration.
-> Git & GitHub: For version control and project collaboration.
+VS Code: Used for code editing and Git integration.
+Git & GitHub: For version control and project collaboration.
 
 ### Findings:
 - The plots above show that the majority of buyers are female, and females have spent the highest total amount on shopping.
