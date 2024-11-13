@@ -26,8 +26,8 @@ A detailed analysis of Amazon sales data was conducted using Python, generating 
 - The plots above show that the majority of buyers are female, and females have spent the highest total amount on shopping.
 - From the plot above, we can observe that females in the 26-35 age group have made the most purchases, and this group has also spent the highest amount during shopping.
 - According to the plot above, Uttar Pradesh is the state with the highest number of orders and also the highest total order amount followed by Maharashtra and Karnataka.
-- According to the plot above, unmarried females are placing the most orders and spending the highest amount on shopping.**
-- From the plots above, we observe that females in the IT sector are placing the most orders, with the highest total order amount. Conversely, people in the agriculture sector are placing the fewest orders, with the lowest total amount spent.**
+- According to the plot above, unmarried females are placing the most orders and spending the highest amount on shopping.
+- From the plots above, we observe that females in the IT sector are placing the most orders, with the highest total order amount. Conversely, people in the agriculture sector are placing the fewest orders, with the lowest total amount spent.
 - From the two plots above, we can see that people have primarily ordered items in the Clothing & Apparel category, followed by Food products and Electronics & Gadgets. However, the highest spending has been on Food items.
 
 ### Conclusion:
